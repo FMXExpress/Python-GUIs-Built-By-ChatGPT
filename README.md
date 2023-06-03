@@ -1,4 +1,4 @@
-# Python-GUIs-Built-By-ChatGPT
+# Python GUIs Built By ChatGPT
 Collection of Python GUI Framework examples built by prompting ChatGPT for a Python GUI Apps Con 2023 session.
 
 * DelphiFMX for Python - https://chat.openai.com/share/6c80bd12-b46e-4f39-8b78-2caed07fefc9
